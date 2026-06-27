@@ -1,18 +1,3 @@
-## Stack
-
-**Cloud** — AWS (EC2, ECS, ECR, EKS, S3, RDS, DynamoDB, Lambda, IAM, VPC, CloudWatch, SNS, SQS, CloudTrail, Bedrock)
-**IaC & Config** — Terraform · Ansible
-**CI/CD & GitOps** — GitHub Actions · GitLab CI · Jenkins · ArgoCD
-**Containers** — Docker · Kubernetes · Helm
-**Observability** — Prometheus · Grafana · CloudWatch · Datadog
-**Security** — Trivy · Checkov · Gitleaks
-**AI Tools** — Claude API · AWS Bedrock
-**Languages** — Python · Bash · SQL
-**Systems** — Linux · RHEL · CentOS · TCP/IP · DNS
-**Cert** — AWS Certified Solutions Architect – Associate
-
----
-
 ## Projects
 
 | Repo | What it does |
