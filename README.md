@@ -10,7 +10,3 @@
 | [Terraform-AWS-Infra](https://github.com/Sage-Canty/Terraform-AWS-Infra) | Modular Terraform for ECS, ECR, Lambda, S3, DynamoDB, and networking on AWS |
 
 ---
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/sage-canty) · sagecanty@gmail.com
